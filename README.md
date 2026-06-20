@@ -2,7 +2,7 @@
 
 **Constituency-level crop activity mapping for Thanjavur district using real Sentinel-2 satellite imagery, processed entirely from open data sources.**
 
-![Crop Health Map](assets/NDVI_classified.jpg)
+![Crop Health Map](assets/NDVI_classified.JPG)
 
 ---
 
