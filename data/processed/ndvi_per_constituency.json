@@ -1,0 +1,66 @@
+{
+  "source": "Sentinel-2 L2A (ESA Copernicus)",
+  "date": "2026-03-25",
+  "tile": "T44PKS + adjacent tiles",
+  "district": "Thanjavur, Tamil Nadu",
+  "method": "NDVI = (B08 - B04) / (B08 + B04), zonal statistics per constituency",
+  "note": "March imagery \u2014 post-Samba harvest transition. Green patches = irrigated perennial crops (sugarcane, gardens).",
+  "constituencies": [
+    {
+      "constituency": "Orathanadu",
+      "mean_ndvi": 0.2887,
+      "max_ndvi": 1.0,
+      "min_ndvi": -1.0,
+      "crop_health": "High Activity"
+    },
+    {
+      "constituency": "Pattukkottai",
+      "mean_ndvi": 0.2816,
+      "max_ndvi": 1.0,
+      "min_ndvi": -1.0,
+      "crop_health": "High Activity"
+    },
+    {
+      "constituency": "Peravurani",
+      "mean_ndvi": 0.2766,
+      "max_ndvi": 1.0,
+      "min_ndvi": -1.0,
+      "crop_health": "Moderate Activity"
+    },
+    {
+      "constituency": "Kumbakonam",
+      "mean_ndvi": 0.2481,
+      "max_ndvi": 0.706,
+      "min_ndvi": -0.164,
+      "crop_health": "Low Activity / Post-Harvest"
+    },
+    {
+      "constituency": "Thiruvidaimarudur",
+      "mean_ndvi": 0.2412,
+      "max_ndvi": 0.709,
+      "min_ndvi": -0.175,
+      "crop_health": "Low Activity / Post-Harvest"
+    },
+    {
+      "constituency": "Thanjavur",
+      "mean_ndvi": 0.2395,
+      "max_ndvi": 0.711,
+      "min_ndvi": -0.321,
+      "crop_health": "Low Activity / Post-Harvest"
+    },
+    {
+      "constituency": "Papanasam",
+      "mean_ndvi": 0.2383,
+      "max_ndvi": 0.737,
+      "min_ndvi": -0.326,
+      "crop_health": "Low Activity / Post-Harvest"
+    },
+    {
+      "constituency": "Thiruvaiyaru",
+      "mean_ndvi": 0.237,
+      "max_ndvi": 1.0,
+      "min_ndvi": -1.0,
+      "crop_health": "Low Activity / Post-Harvest"
+    }
+  ]
+}

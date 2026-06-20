@@ -1,0 +1,9 @@
+fid,district_n,district_c,assembly_c,assembly_1,parliament,parliame_1,parliame_2,status,_mean,_min,_max
+1,Thanjavur,21,Thanjavur,174,3330,Thanjavur,30,,0.239547281933091,-0.321122586727142,0.710818767547607
+2,Thanjavur,21,Thiruvidaimarudur,170,3328,Mayiladuthurai,28,,0.241157310282984,-0.175410360097885,0.708598554134369
+3,Thanjavur,21,Kumbakonam,171,3328,Mayiladuthurai,28,,0.24805319182236,-0.163689389824867,0.706173956394196
+4,Thanjavur,21,Papanasam,172,3328,Mayiladuthurai,28,,0.238299062975436,-0.325691699981689,0.736750245094299
+5,Thanjavur,21,Thiruvaiyaru,173,3330,Thanjavur,30,,0.237017299926276,-1,1
+6,Thanjavur,21,Peravurani,177,3330,Thanjavur,30,,0.276621180226603,-1,1
+7,Thanjavur,21,Orathanadu,175,3330,Thanjavur,30,,0.28865783047486,-1,1
+8,Thanjavur,21,Pattukkottai,176,3330,Thanjavur,30,,0.281640109144256,-1,1
