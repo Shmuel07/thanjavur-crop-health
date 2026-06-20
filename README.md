@@ -2,7 +2,7 @@
 
 **Constituency-level crop activity mapping for Thanjavur district using real Sentinel-2 satellite imagery, processed entirely from open data sources.**
 
-![Crop Health Map](assets/NDVI_classified.jpg)
+![Crop Health Map](assets/thanjavur_crop_health_map.png)
 
 ---
 
@@ -32,6 +32,26 @@ Satellite-derived NDVI provides the same information at district scale in hours,
 **District mean NDVI: 0.2564**
 
 > **Seasonal context:** March is the post-Samba harvest transition period. High-NDVI areas (Orathanadu, Pattukkottai) reflect active irrigated perennial crops — sugarcane and garden crops along the Cauvery tail-end canals. Low-NDVI areas are healthy fallow fields resting between seasons, not stressed crops.
+
+---
+
+## Why This Date?
+
+The imagery date (25 March 2026) was selected as the **most recent cloud-free Sentinel-2 acquisition** available for Thanjavur district at the time of analysis. Cloud cover below 10% was required — a consistent constraint in Tamil Nadu due to seasonal cloud patterns.
+
+**What March means agriculturally:**
+
+Thanjavur follows two main crop seasons:
+- **Samba (Aug–Jan):** the major rice season, harvested November–January
+- **Kuruvai (Jun–Sep):** the early rice season
+- **March** sits in the inter-season gap — post-Samba harvest, pre-Kuruvai planting
+
+This means the March NDVI captures:
+- **Active green pixels** = irrigated perennial crops (sugarcane, banana, vegetables) that grow year-round regardless of season — concentrated along Cauvery canal command areas
+- **Low/fallow pixels** = rice fields resting between seasons — healthy, expected, not a sign of crop failure
+
+> **For a complete picture of rice crop health**, the ideal imagery dates are **October–November** (peak Samba growth) and **July–August** (peak Kuruvai growth). This project establishes the inter-season baseline. The Roadmap section describes how multi-date analysis will track the full crop cycle.
+
 
 ---
 
