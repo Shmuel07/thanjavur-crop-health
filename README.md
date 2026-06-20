@@ -37,7 +37,7 @@ Satellite-derived NDVI provides the same information at district scale in hours,
 
 ## Why This Date?
 
-The imagery date (25 March 2026) was selected as the **most recent cloud-free Sentinel-2 acquisition** available for Thanjavur district at the time of analysis. Cloud cover below 10% was required — a consistent constraint in Tamil Nadu due to seasonal cloud patterns.
+The imagery date (25 March 2026) was selected as the **most recent Sentinel-2 capture** available for Thanjavur district at the time of analysis. Cloud cover below 10% was required — a consistent constraint in Tamil Nadu due to seasonal cloud patterns.
 
 **What March means agriculturally:**
 
